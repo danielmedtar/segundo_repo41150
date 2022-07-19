@@ -9,9 +9,3 @@ h2 {
 p {
     background-color: yellow;
 }
-
-div {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
